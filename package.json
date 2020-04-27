@@ -1,5 +1,5 @@
 {
-  "name": "Incognito landing",
+  "name": "incognito-landing",
   "dependencies": {
     "create-react-class": "^15.6.3",
     "react": "^16.13.1",
@@ -7,5 +7,6 @@
   },
   "devDependencies": {
     "shadow-cljs": "^2.8.95"
-  }
+  },
+  "license": "MIT",
 }
